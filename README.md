@@ -7,4 +7,4 @@
 Skill: React.js
 
 ### Back-end
-Skill: Express.js
+Skill: Express.js, MySQL
