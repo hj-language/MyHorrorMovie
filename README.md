@@ -8,3 +8,5 @@ Skill: React.js
 
 ### Back-end
 Skill: Express.js, MySQL
+
+![화면 캡처 2023-04-20 170118](https://user-images.githubusercontent.com/68014406/233300226-a4bca6cd-2456-48fa-b0c5-dce2fa3f1153.png)
